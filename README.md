@@ -7,5 +7,5 @@ Welcome to iM Bored Chrome Extension. An extension that stops you from taking to
  
  # Demo
  
- ![iM Bored Demo pt1] (https://media.giphy.com/media/RhYQJ7hGmZ3p4O9eun/giphy.gif)
+ ![iM Bored Demo pt1](https://media.giphy.com/media/RhYQJ7hGmZ3p4O9eun/giphy.gif)
  ![iM Bored Demo pt2](https://media.giphy.com/media/QXCsZcoaSOoXOxacxe/giphy.gif)
