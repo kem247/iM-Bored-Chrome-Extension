@@ -6,7 +6,7 @@ Welcome to iM Bored Chrome Extension. An extension that stops you from taking to
  First set the timer and click on a new tab. Once the timer is up, you are logged out of that tab and back to the tab you working on! 
  
  # Extension: 
- [imbored](chrome://extensions/?id=leicanmlmkamgjjdehinnhejbnfkafmh)
+ ![imbored](chrome://extensions/?id=leicanmlmkamgjjdehinnhejbnfkafmh)
  # Demo
  
  ![iM Bored Demo pt1](https://media.giphy.com/media/RhYQJ7hGmZ3p4O9eun/giphy.gif)
